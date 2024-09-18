@@ -39,3 +39,10 @@ This project demonstrates a file transfer application that enables a client to s
 - **Retry Mechanisms**: Add retry mechanisms for interrupted transfers.
 - **Transfer Metrics**: Display transfer speed and estimated time.
 
+## Output 
+![image](https://github.com/user-attachments/assets/f28260cb-4692-4150-b743-06f4b0713a69)
+![image](https://github.com/user-attachments/assets/db5a1c69-8bd4-408f-ae3f-163afeaaa889)
+![image](https://github.com/user-attachments/assets/17147af9-721c-4c16-84cd-54149073c836)
+
+
+
